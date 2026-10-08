@@ -1,0 +1,58 @@
+{
+  "analysis_id": "SIG-48291",
+  "communication_type": "Client Escalation Email",
+  "overall_risk_score": 91,
+  "severity": "HIGH",
+  "confidence_score": 94,
+
+  "detected_risks": [
+    {
+      "type": "Scope Creep",
+      "severity": "HIGH",
+      "confidence": 96
+    },
+    {
+      "type": "Timeline Instability",
+      "severity": "CRITICAL",
+      "confidence": 92
+    }
+  ],
+
+  "hidden_signals": [
+    "Stakeholder expectation divergence",
+    "Escalation language softening",
+    "Leadership pressure indicators",
+    "Potential accountability ambiguity"
+  ],
+
+  "emotional_analysis": {
+    "primary_tone": "Controlled Concern",
+    "friction_level": 78,
+    "urgency_level": 84
+  },
+
+  "business_impact_prediction": {
+    "delivery_risk": "HIGH",
+    "client_trust_risk": "MEDIUM_HIGH",
+    "budget_risk": "MEDIUM",
+    "operational_stability": "DECLINING"
+  },
+
+  "recommended_actions": [
+    "Schedule stakeholder scope clarification meeting",
+    "Revalidate delivery commitments internally",
+    "Establish single ownership for reporting workflows"
+  ],
+
+  "clarification_opportunities": [
+    "Define finalized reporting scope",
+    "Clarify delivery dependencies",
+    "Document timeline assumptions"
+  ],
+
+  "escalation_probability": 87,
+
+  "executive_summary": "Communication patterns indicate increasing delivery instability driven by unclear scope boundaries and externally committed timelines.",
+
+  "suggested_response": "Thanks for raising these concerns. We are currently aligning internally on finalized reporting requirements and delivery dependencies to ensure expectations remain accurate and achievable. We will provide a clarified rollout update following the upcoming internal review."
+}

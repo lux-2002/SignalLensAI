@@ -1,0 +1,6 @@
+
+PM: Client asking about launch timeline again.
+Developer: Reporting module still incomplete.
+Designer: Final requirements not confirmed yet.
+PM: We already committed Friday delivery.
+Developer: That timeline isn't realistic.

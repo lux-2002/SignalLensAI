@@ -1,0 +1,6 @@
+
+- Client expects faster delivery
+- Scope expanding gradually
+- Ownership unclear for analytics module
+- Team misalignment detected
+- Budget discussion postponed
